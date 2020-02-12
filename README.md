@@ -1,2 +1,2 @@
-# Gra
-Gra
+# Gra Stellar
+Python + pygame
